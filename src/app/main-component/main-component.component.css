@@ -1,0 +1,25 @@
+.task
+{
+    width:70%;
+    border: 1px solid #ddd;
+    border-left: 3px solid green;
+    border-radius: 0 5px 5px 0 ;
+}
+
+.taskButton 
+{
+    background-color: transparent;
+    border: none;
+}
+
+.taskButton:focus
+{
+    box-shadow: none;
+    outline: none;
+}
+
+input:focus
+{
+    box-shadow: 0px 0px 1px 1px green;
+    outline: none;
+}
