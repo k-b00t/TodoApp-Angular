@@ -1,9 +1,14 @@
-.task
+.cardTask
 {
     width:70%;
     border: 1px solid #ddd;
     border-left: 3px solid green;
     border-radius: 0 5px 5px 0 ;
+}
+
+.task
+{
+    width:100%;
 }
 
 .taskButton 
@@ -16,6 +21,16 @@
 {
     box-shadow: none;
     outline: none;
+}
+.font-md
+{
+    font-size: 1.5em;
+}
+
+.font-sm
+{
+    font-size: .8em;
+    font-style: italic;
 }
 
 input:focus
