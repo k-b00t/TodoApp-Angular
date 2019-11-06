@@ -1,41 +1,34 @@
 # todoApp
 
-Deploying
+This is a practice for learning Angular. The app is a task manager, the storage it uses is the browser cache.
 
-![]()
+![](https://github.com/k-b00t/7-todoApp/tree/master/docs/Screenshoot.png)
 [Live Demo here!](https://k-b00t.github.io/7-todoApp/)
 
 ## How to use:
 
-Medium description
 
-
-
-## How does it work:
-
-- 
-- 
-- 
-- 
+To use it, simply write a note in the input and press the "+" button. The note below will appear in ascending order. You can delete the note by clicking on the trash can icon, a confirmation box appears.
+The notes entered will persist over time as long as the browser cache is not emptied.
 
 
 
 ## Stack:
 
--
--
--
--
+- HTML5
+- CSS3
+- Bootstrap
+- Typescript
+- Angular
 
 
 
 
 ## Working in progres:
 
-- 
-- 
-- 
-- 
+- Connection to a server
+- Store notes in database
+- Themes for customization
 
 
 
