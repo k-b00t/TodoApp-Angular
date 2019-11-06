@@ -1,9 +1,9 @@
-# Title
+# todoApp
 
-Small description
+Deploying
 
-![](screenshot.png)
-[Live Demo here!](link to demo)
+![]()
+[Live Demo here!](https://k-b00t.github.io/7-todoApp/)
 
 ## How to use:
 
@@ -41,4 +41,4 @@ Medium description
 
 ## Copyright y license
 
-[The license is MIT type, you can check it here](path to license)
+[The license is MIT type, you can check it here](https://github.com/k-b00t/7-todoApp/blob/master/LICENSE.txt)
