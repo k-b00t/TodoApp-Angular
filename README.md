@@ -2,7 +2,8 @@
 
 This is a practice for learning Angular. The app is a task manager, the storage it uses is the browser cache.
 
-![](https://github.com/k-b00t/7-todoApp/tree/master/docs/Screenshoot.png)
+![](https://github.com/k-b00t/7-todoApp/blob/master/docs/Screenshoot.png)
+
 [Live Demo here!](https://k-b00t.github.io/7-todoApp/)
 
 ## How to use:
