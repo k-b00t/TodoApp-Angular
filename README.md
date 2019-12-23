@@ -35,4 +35,4 @@ The notes entered will persist over time as long as the browser cache is not emp
 
 ## Copyright y license
 
-[The license is MIT type, you can check it here](https://github.com/k-b00t/7-todoApp/blob/master/LICENSE.txt)
+[The license is MIT type, you can check it here](https://github.com/k-b00t/TodoApp-Angular/blob/master/LICENSE.txt)
